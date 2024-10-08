@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+    background-color: orangered;
+
+}
+article img{
+    width: 250px;
+}
+article{
+    width: 250px;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+
+}
+section{
+    display: flex;
+    gap: 10px;
+}
