@@ -5,15 +5,26 @@ header{
 }
 article img{
     width: 250px;
+    
 }
 article{
     width: 250px;
     border: 1px solid black;
     padding: 5px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+    align-content: stretch;
+    justify-content: space-between;
+    align-items: center;
 
 }
 section{
     display: flex;
     gap: 10px;
+}
+img:hover{
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
 }
