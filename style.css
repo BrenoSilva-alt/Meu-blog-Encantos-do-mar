@@ -45,7 +45,7 @@ article:hover {
 
 /* From Uiverse.io by adamgiebl */
 button {
-  position: relative;
+  /* position: relative; */
   display: inline-block;
   margin: 15px;
   padding: 15px 30px;
