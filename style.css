@@ -9,16 +9,16 @@ article img {
 
 article {
   width: 250px;
-  height: 450px;
+  height: 500px;
   border: 1px solid rgb(102, 100, 100);
-  padding: 5px;
+  padding: 10px;
   text-align: center;
   display: flex;
   flex-direction: column;
   box-shadow: rgb(152, 154, 156) 0px 20px 30px -10px;
   background-color: rgb(243, 237, 232);
 
-  align-content: stretch;
+  /* align-content: stretch; */
   justify-content: space-between;
   align-items: center;
 }
@@ -34,7 +34,7 @@ section {
 }
 
 article p {
-  
+
   text-align: justify;
 }
 
@@ -47,7 +47,7 @@ article:hover {
 button {
   /* position: relative; */
   display: inline-block;
-  margin: 15px;
+  margin: 20px;
   padding: 15px 30px;
   text-align: center;
   font-size: 18px;
