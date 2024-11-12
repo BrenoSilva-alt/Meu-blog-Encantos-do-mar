@@ -31,11 +31,11 @@ section {
   line-break: auto;
   width: 100%;
   flex-wrap: wrap;
-article p {
-  text-align: justify; 
 }
 
-
+article p {
+  
+  text-align: justify;
 }
 
 article:hover {
@@ -70,7 +70,7 @@ button:hover {
 button:active {
   transform: scale(0.9);
 }
-a{
+a {
   text-decoration: none;
   color: black;
 }
