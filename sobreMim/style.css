@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    background-color: orangered;
+    margin-bottom: 20px;
+}
+article img {
+    width: 250px;
+}
+ article {
+            width: 250px;
+            height: 500px;
+            border: 1px solid rgb(102, 100, 100);
+            padding: 10px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            box-shadow: rgb(152, 154, 156) 0px 20px 30px -10px;
+            background-color: rgb(243, 237, 232);
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        section {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            justify-content: center;
+            line-break: auto;
+            width: 100%;
+            flex-wrap: wrap;
+        }
+
+        article p {
+            text-align: justify;
+        }
+
+       
+      
+      
+        a {
+            text-decoration: none;
+            color: black;
+        }
