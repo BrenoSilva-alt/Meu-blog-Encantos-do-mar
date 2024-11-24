@@ -2,7 +2,7 @@ header {
   text-align: center;
   background-color: orangered;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding: 5px 0 5px 0;
 }
 article img {
   width: 250px;
