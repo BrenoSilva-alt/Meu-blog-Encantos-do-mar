@@ -1,6 +1,17 @@
 header {
   text-align: center;
   background-color: orangered;
+  margin-bottom: 20px;
+  padding: 5px 0 5px 0;
+}
+article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
 footer {
   margin-top: 20px;
