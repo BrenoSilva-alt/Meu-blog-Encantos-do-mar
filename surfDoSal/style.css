@@ -1,7 +1,12 @@
-header{
-    text-align: center;
-    background-color: orangered;
+header {
+  text-align: center;
+  background-color: orangered;
 }
 article p {
-    text-align: justify; 
+  text-align: justify;
+}
+footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }

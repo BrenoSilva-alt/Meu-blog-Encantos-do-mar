@@ -1,4 +1,9 @@
-header{
-    text-align: center;
-    background-color: orangered;
+header {
+  text-align: center;
+  background-color: orangered;
+}
+footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }
